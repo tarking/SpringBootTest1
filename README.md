@@ -1,2 +1,3 @@
 # SpringBootTest1
-jpa+thymeleaf
+
+jpa+thymeleaf exercise with springboot 
